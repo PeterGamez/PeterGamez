@@ -1,5 +1,5 @@
 # PeterGamez
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="/github-metrics.svg" alt="Metrics" height="100%" width="100%">
 
 ## 🛠️ Languages & Tools
 <div align="center">
